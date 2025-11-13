@@ -9,7 +9,9 @@ Nantucket (NANT) — Massachusetts
 
 Public data portals:
 BLOC: https://wdh.energy.gov/ds/wfip3/bloc.lidar.z03.c0
+
 MVCO: https://wdh.energy.gov/ds/wfip3/mvco.lidar.z03.c0
+
 NANT: https://wdh.energy.gov/ds/wfip3/nant.lidar.z01.c0
 
 More datasets will be incorporated as the project progresses.
