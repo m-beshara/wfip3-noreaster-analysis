@@ -1,9 +1,9 @@
 # wfip3-noreaster-analysis
 In this project, we analyze wind data from profiling lidars deployed during the Third Wind Forecast Improvement Project (WFIP3; https://psl.noaa.gov/renewable_energy/wfip3/):
 
-Block Island (BLOC) — Rhode Island
-Martha’s Vineyard (MVCO) — Massachusetts
-Nantucket (NANT) — Massachusetts
+Block Island (BLOC) — Rhode Island <br>
+Martha’s Vineyard (MVCO) — Massachusetts <br>
+Nantucket (NANT) — Massachusetts <br>
 
 <br>
 Public data portals:
