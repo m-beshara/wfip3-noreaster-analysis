@@ -10,7 +10,7 @@ BLOC: https://wdh.energy.gov/ds/wfip3/bloc.lidar.z03.c0 <br>
 MVCO: https://wdh.energy.gov/ds/wfip3/mvco.lidar.z03.c0 <br>
 NANT: https://wdh.energy.gov/ds/wfip3/nant.lidar.z01.c0 <br>
 
-<br> <br>
+<br> 
 
 The lidar datasets vary in both time and height. For BLOC and MVCO, the sampling interval is roughly 2 minutes, the vertical resolution is about 20 meters, and measurements span from ~40 meters to ~220 meters above ground level. Each record at these sites is already a 2-minute scalar average provided in the dataset. For NANT, the sampling interval is ~30 seconds, the vertical resolution is ~26 meters, and heights range from ~91 meters up to ~5 kilometers.
 
